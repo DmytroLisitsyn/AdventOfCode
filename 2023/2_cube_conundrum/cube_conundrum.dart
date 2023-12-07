@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import '../utilities/utilities.dart';
+import '../utilities/file_reading.dart';
 
 void main() async {
   final lines1 = await readLines('input1.txt');
